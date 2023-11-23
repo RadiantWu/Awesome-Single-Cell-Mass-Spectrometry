@@ -7,4 +7,6 @@
 [LINK](https://pubs.acs.org/doi/10.1021/acs.jproteome.2c00714)
 ## Exploring functional protein covariation across single cells using nPOP
 [LINK](https://scp.slavovlab.net/Leduc_et_al_2022)
+## Lipid Heterogeneity between Astrocytes and Neurons Revealed by Single-Cell MALDI-MS Combined with Immunocytochemical Classification
+[LINK](https://onlinelibrary.wiley.com/doi/10.1002/anie.201812892)
 
