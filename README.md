@@ -9,4 +9,5 @@
 [LINK](https://scp.slavovlab.net/Leduc_et_al_2022)
 ## Lipid Heterogeneity between Astrocytes and Neurons Revealed by Single-Cell MALDI-MS Combined with Immunocytochemical Classification
 [LINK](https://onlinelibrary.wiley.com/doi/10.1002/anie.201812892)
-
+## Biomolecular Imaging with a C60-SIMS/MALDI Dual Ion Source Hybrid Mass Spectrometer: Instrumentation, Matrix Enhancement, and Single Cell Analysis
+[LINK](https://pubs.acs.org/doi/10.1007/s13361-014-0978-9)
