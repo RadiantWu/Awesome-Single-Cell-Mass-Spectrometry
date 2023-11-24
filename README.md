@@ -11,3 +11,6 @@
 [LINK](https://onlinelibrary.wiley.com/doi/10.1002/anie.201812892)
 ## Biomolecular Imaging with a C60-SIMS/MALDI Dual Ion Source Hybrid Mass Spectrometer: Instrumentation, Matrix Enhancement, and Single Cell Analysis
 [LINK](https://pubs.acs.org/doi/10.1007/s13361-014-0978-9)
+## Categorizing Cells on the Basis of their Chemical Profiles: Progress in Single-Cell Mass Spectrometry
+[LINK](https://pubs.acs.org/doi/10.1021/jacs.6b12822)
+
