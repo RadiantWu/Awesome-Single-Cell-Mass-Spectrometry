@@ -13,4 +13,6 @@
 [LINK](https://pubs.acs.org/doi/10.1007/s13361-014-0978-9)
 ## Categorizing Cells on the Basis of their Chemical Profiles: Progress in Single-Cell Mass Spectrometry
 [LINK](https://pubs.acs.org/doi/10.1021/jacs.6b12822)
+## QuantifyingCell Heterogeneityand SubpopulationsUsingSingleCell Metabolomics
+[LINK](https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c05245)
 
